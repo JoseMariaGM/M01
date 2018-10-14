@@ -1,3 +1,5 @@
+#GNU-GPL
+
 <h1>**¿Que es GNU/GPL?**
 <h2>**GNU**
 **GNU** es una licencia de derecho de autor ampliamente usada en el mundo del *software* y *código libre*.
@@ -9,3 +11,8 @@ Este garantiza a los usuarios la libertad de usar, estudiar, compartir, y modifi
 -InkScape
 -Mozilla Firefox7
 -Gparted
+-RedHat
+
+## ¿Es RedHat un GNU-GPL?
+
+Red Hat sí es un gnu-gpl, ya que este software que ellos ofrecen es gratuito, y permite ser modificado. Sin embargo, ellos lo que ofrecen es un tipo de servicio de soporte enfocado hacia empresas que asegura un mantenimiento , y que este tenga un buen funcionamiento. Ellos no venden ningún tipo de software, ellos lo que venden es un tipo de servicio, pero aunque este lo sea, sigue teniendo la funcionalidad de un GNU-GPL.
