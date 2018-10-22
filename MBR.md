@@ -9,8 +9,8 @@ Un registro de arranque principal, conocido también como registro de arranque m
 
 Tabla de particiones (64 bytes) **->** 4 registros que definen cada una de las particiones primarias.
 
-Código máquina (446 bytes) **->** Gestor de arranque.
+Código máquina (446 bytes) **->** Es el gestor de arranque del PC. Este es un sisema de códigos que actuan como conjunto de instrucciones determinando así acciones a tomar para la máquina.
 
-Firma de unidad de arrancable (2 bytes) **->** "55hAAh" en hexadecimal.
+Firma de unidad de arrancable (2 bytes) **->** Número identificador para un disco duro almacenado en la MBR ("55hAAh" en hexadecimal).
 
 
