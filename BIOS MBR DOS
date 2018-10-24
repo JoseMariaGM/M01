@@ -14,7 +14,7 @@
                                             |
                                             |
                                             |---> En *Windows* si no es "Activa" el PC no arrancará
- *UEFI/GPT*->No hay ni primarias ni activas.<-|---> En *Linux* esta no es obligatoria como en Windows, no es del todo necesaria.
+*UEFI/GPT*->Ni primarias ni activas tiene.<-|---> En *Linux* esta no es obligatoria como en Windows, no es del todo necesaria.
                                    
                                    
 **Boot Manager** --> Gestor de arranque de Windows.
