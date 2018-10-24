@@ -13,8 +13,8 @@ Con este comando se puede crear , eliminar , cambiar, copiar y mover particiones
 
 -*fdisk -s* -> Comprobar el tamaño de la partición.
 
--*n* -> Para crear una partición (new). En esta despeus de querer crearla nos sale lo siguiente: e (extendida), p (primaria) y t
-(swap).
+-*n* -> Para crear una partición (new). En esta después de crearla nos sale lo siguiente: e (extendida), p (primaria) y t
+(swap), ya de aquí elegimos cual tipo queremos.
 
 -*delete* -> Borrar una partición.
 
