@@ -1,4 +1,4 @@
-<h1>**Práctica**
+# Práctica
 
 -Lo primero que haremos sera quitar los tornillos de la torre para poder retirar la tapa lateral de la torre, la cual es la que 
 está más alejada de la placa en este caso.
