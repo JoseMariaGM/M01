@@ -1,6 +1,6 @@
 # *Tipos De CPU's.* --> 32 bits y 64 bits
 
-##CPU 32 Bits .
+## CPU 32 Bits .
 
 Su memoria RAM máxima es de 4GB, y como bien dice el nombre, este no admite nada más que 32 bits ( es de cir que 64 bits
 no son aceptados por estetipo de sistema operativo).
