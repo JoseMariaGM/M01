@@ -1,16 +1,15 @@
 **BIOS MBR DOS**
 
-    |
-    |     *Antiguo* -> **BIOS MBR DOS** -> Admite hasta un máximo de 2 TB por cada partición existente.
-    |     *Actual* -> **UEFI GPT** -> Admite hasta un máximo de 18 exabytes, que este es equivalente a 18,8 millones de TB.
-    |
-    |
-    V
+*-Antiguo* -> **BIOS MBR DOS** -> Admite hasta un máximo de 2 TB por cada partición existente.
+*-Actual*  -> **UEFI GPT** -> Admite hasta un máximo de 18 exabytes, que este es equivalente a 18,8 millones de TB  
+              
+              
 **Reglas MBR**
 
 -Tiene un máximo de **4 particiones primarias**. ---> Una de estas puede ser extended.
 -Una **extended** puede tener "n lógicas"
 -Una de ellas obligatoriamente debe ser **"Activa"**---> Una Activa no puede ser extended y al revés.
+
                                             |
                                             |
                                             |
