@@ -1,4 +1,5 @@
 **BIOS MBR DOS**
+
     |
     |     *Antiguo* -> **BIOS MBR DOS** -> Admite hasta un máximo de 2 TB por cada partición existente.
     |     *Actual* -> **UEFI GPT** -> Admite hasta un máximo de 18 exabytes, que este es equivalente a 18,8 millones de TB.
