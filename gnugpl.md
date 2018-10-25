@@ -1,7 +1,4 @@
 
-**GNU-GPL**
-
-
 <h1> # ¿Que es GNU/GPL?
 
 <h2> # GNU
