@@ -22,5 +22,4 @@ Con este comando se puede crear , eliminar , cambiar, copiar y mover particiones
 
 -*mkfs.ext4 /sdb5/dev/* -> Formateo de la partición.
 
-             |
-             |---> Tipo de formato partición.
+            
