@@ -10,12 +10,8 @@
 -Una **extended** puede tener "n lógicas"
 -Una de ellas obligatoriamente debe ser **"Activa"**---> Una Activa no puede ser extended y al revés.
 
-                                            |
-                                            |
-                                            |
-                                            |---> En *Windows* si no es "Activa" el PC no arrancará
 *UEFI/GPT*->Ni primarias ni activas tiene.<-|---> En *Linux* esta no es obligatoria como en Windows, no es del todo necesaria.
-                                   
+                                            |---> En *Windows* si no es "Activa" el PC no arrancará
                                    
 **Boot Manager** --> Gestor de arranque de Windows.
 **GRUB** --> Gestor de arranque de Linux
