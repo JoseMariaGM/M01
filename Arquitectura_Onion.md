@@ -21,7 +21,7 @@ a la hora de usarlo.
  -**CLI**: *Command Line Interface* Es una manera de manipular con una série de instrucciones en terminal.
  
  
--__**Sistema de ventanas X** o **X11**__:
+-**Sistema de ventanas X** o **X11**:
 
 X11 es el encargado de mostrar la información gráfica de forma totalmente independiente del sistema operativo. 
 Es un sistema de gestor de ventanas, común en sistemas operativos del tipo *UNIX*, que fue desarrollado a mediados de los años 1980 en el **Instituto de Tecnología de Massachusetts** (MIT), para dotar de una interfaz gráfica a los sistemas Unix. Este protocolo permite la interacción gráfica en red entre un usuario y una o más computadoras.
@@ -30,4 +30,4 @@ Es un sistema de gestor de ventanas, común en sistemas operativos del tipo *UNI
 -**Wayland**:
 
 *Wayland* es un protocolo de servidor gráfico y una biblioteca para GNU/Linux.
-Este proporciona un método para que los gestores de composición de ventanas se comuniquen directamente con *las aplicaciones* y el *hardware de vídeo*. Las aplicaciones renderizan los gráficos en sus propios **buffers** **(** espacio de memoria temporal **)** y el gestor de ventanas se convierte en  servidor gráfico, haciendo una composición con esos **buffers**  para formar la visualización en pantalla de las ventanas de las aplicaciones. Este es un enfoque __más simple__ y más eficiente que usar un gestor de composición de ventanas con el **X Window System**.
+Este proporciona un método para que los gestores de composición de ventanas se comuniquen directamente con *las aplicaciones* y el *hardware de vídeo*. Las aplicaciones renderizan los gráficos en sus propios **buffers** **(** espacio de memoria temporal **)** y el gestor de ventanas se convierte en  servidor gráfico, haciendo una composición con esos **buffers**  para formar la visualización en pantalla de las ventanas de las aplicaciones. Este es un enfoque _más simple_ y más eficiente que usar un gestor de composición de ventanas con el **X Window System**.
