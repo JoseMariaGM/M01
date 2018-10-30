@@ -29,5 +29,5 @@ Es un sistema de gestor de ventanas, común en sistemas operativos del tipo *UNI
 
 -**Wayland**:
 
-*Wayland* es un protocolo de servidor gráfico y una biblioteca para GNU/Linux.
-Este proporciona un método para que los gestores de composición de ventanas se comuniquen directamente con *las aplicaciones* y el *hardware de vídeo*. Las aplicaciones renderizan los gráficos en sus propios **buffers** **(** espacio de memoria temporal **)** y el gestor de ventanas se convierte en  servidor gráfico, haciendo una composición con esos **buffers**  para formar la visualización en pantalla de las ventanas de las aplicaciones. Este es un enfoque _más simple_ y más eficiente que usar un gestor de composición de ventanas con el **X Window System**.
+*Wayland* es un protocolo de servidor gráfico y una biblioteca para **GNU/Linux**.
+Este proporciona un método para que los gestores de composición de ventanas se comuniquen directamente con *las aplicaciones* y el *hardware de vídeo*. Las aplicaciones renderizan los gráficos en sus propios **buffers** **(** espacio de memoria temporal **)** y el gestor de ventanas se convierte en  servidor gráfico, haciendo una composición con esos **buffers**  para formar la visualización en pantalla de las ventanas de las aplicaciones. Este es un enfoque más simple y más eficiente que usar un gestor de composición de ventanas con el **X Window System**.
