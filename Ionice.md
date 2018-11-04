@@ -8,7 +8,7 @@ Este puede tener tres tipos de programación -> *IDLE - Best Effort - Real Time.
   
 - *Best Effort* -> Permite el uso de un parámetro dependiendo de **parámetros**.
 
-     __Parámetros__ ->De **0** (máxima prioridad) a **7** ( mínima prioridad).                                                                                                                             
+    < __Parámetros__ ->De **0** (máxima prioridad) a **7** ( mínima prioridad). >                                                                                                                            
 - *Real Time* -> Este da el primer acceso al disco duro sin importar lo que pueda haber. Utiliza el mismo sistema de "parámetros"
   como *Best Effort* ( de 0 a 7 ).
                                                                       
