@@ -1,4 +1,4 @@
-<h1>**CNTRL Z - BG**
+**CNTRL Z - BG**
 
 *Cntrl z* sirve para cuando estamos utilizando un proceso que no nos permite ir a la terminal, nos devuelva este dominio dejando en un 
 segundo plano la tarea que utilizabamos antes.
