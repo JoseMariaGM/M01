@@ -7,6 +7,7 @@ Este puede tener tres tipos de programación -> *IDLE - Best Effort - Real Time.
   demás procesos no lo necesiten. Suele llamarse "prioridad inactiva".
   
 - *Best Effort* -> Permite el uso de un parámetro dependiendo de **parámetros**.
+
                                                                     |
                                                                     |
                                                                     ->Prioridades de **0** (máxima prioridad) a **7** ( mínima prioridad).
