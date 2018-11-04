@@ -4,7 +4,7 @@ Este es el núcleo de cualquier sistema operativo. Funciona como intermediario s
 recibe las órdenes del sistema operativo para enviarlas al procesador u otros elementos de hardware para que se ejecuten.
 El kernel es la primera capa de software donde tenemos los drivers que controlan todos los componentes del hardware como: pantalla, cámara, bluetooth, memoria, USB, Wi-Fi, Audio, Carga, CPU, etc. 
 
-![alt text](https://www.google.es/imgres?imgurl=https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kernel_Layout.svg/1200px-Kernel_Layout.svg.png&imgrefurl=https://simple.wikipedia.org/wiki/Kernel_(computer_science)&h=947&w=1200&tbnid=GKXm47WukF_atM:&q=kernel&tbnh=160&tbnw=203&usg=AI4_-kRrIvB5mC-_6wt0fZh9O2V71Z5e7g&vet=12ahUKEwijxc7d3LreAhWHCcAKHW1eDtIQ9QEwAHoECAwQBg..i&docid=qzcd854HEUI4gM&sa=X&ved=2ahUKEwijxc7d3LreAhWHCcAKHW1eDtIQ9QEwAHoECAwQBg)
+![alt text](https://simple.wikipedia.org/wiki/Kernel_(computer_science)#/media/File:Kernel_Layout.svg)
 
 **Escritorio.**
 
