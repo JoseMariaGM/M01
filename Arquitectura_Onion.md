@@ -34,6 +34,7 @@ a la hora de usarlo.
 X11 es el encargado de mostrar la información gráfica de forma totalmente independiente del sistema operativo. 
 Es un sistema de gestor de ventanas, común en sistemas operativos del tipo *UNIX*, que fue desarrollado a mediados de los años 1980 en el **Instituto de Tecnología de Massachusetts** (MIT), para dotar de una interfaz gráfica a los sistemas Unix. Este protocolo permite la interacción gráfica en red entre un usuario y una o más computadoras.
 
+![alt text](http://toastytech.com/guis/remotex11dvx.png)
 
 -**Wayland**:
 
@@ -42,3 +43,32 @@ Este proporciona un método para que los gestores de composición de ventanas se
 
 
 -**Gestor de login**
+Es una interfaz gráfica que se que aparece al final del proceso del gestor de arranque,en el nos sale una pantalla donde debemos rellenar 2 campos los cuales son: **nombre de usuario y la contraseña**. Una vez puesto el usuario y la contraseña, se abrirá el escritorio.
+
+Existen varios gestores de login y tenemos:
+
+ - De consola
+   - CDM
+![alt text](https://farm5.staticflickr.com/4140/4926241632_14cb2f7af7_b.jpg)
+
+   - GDM
+   ![alt text](https://news-cdn.softpedia.com/images/news2/say-goodbye-to-lightdm-gnome-s-gdm-login-manager-now-default-in-ubuntu-17-10-516881-4.jpg)
+   
+   - Instalación por comandos **(LightDM)**
+  [alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lightdm-screenshot.jpg/1200px-Lightdm-screenshot.jpg)
+  
+  
+-**Escritorio**
+Conjunto de métodos que posibilitan a los usuarios la interacción con un **sistema**: empleando botones, íconos, ventanas, etc...
+
+Diferentes tipos de escritorios:
+
+- Gnome
+- XFCE / LDXE
+- KDE
+- MATE
+
+Ejemplo de un escritorio **XFCE**:
+
+![alt text](https://spins.fedoraproject.org/static/images/screenshots/screenshot-xfce.jpg)
+  
