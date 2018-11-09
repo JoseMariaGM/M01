@@ -22,7 +22,7 @@ a la hora de usarlo.
  
  -**CLI**: *Command Line Interface* es una manera de manipular con una série de instrucciones en terminal.
  
- ![alt text](https://kb.informatica.com/howto/6/PublishingImages/500262_4.PNG)
+ ![alt text](http://toolscenter.lenovofiles.com/help/topic/uxspi_lenovo/cli2.jpg)
  
  -**TUI**: *Text User Interface* es un tipo interfaz gráfica de usuario (GUI) que lo que hace es, a través del tipo de texto ASCII, este hace la funcionalidad de dibujar ventanas,  botones y/o decoración. Es siplemente un GUI pero con más decoración.
  
