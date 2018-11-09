@@ -55,7 +55,7 @@ Existen varios gestores de login y tenemos:
    ![alt text](https://news-cdn.softpedia.com/images/news2/say-goodbye-to-lightdm-gnome-s-gdm-login-manager-now-default-in-ubuntu-17-10-516881-4.jpg)
    
    - Instalación por comandos **(LightDM)**
-  [alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lightdm-screenshot.jpg/1200px-Lightdm-screenshot.jpg)
+  ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Lightdm-screenshot.jpg/1200px-Lightdm-screenshot.jpg)
   
   
 -**Escritorio**
