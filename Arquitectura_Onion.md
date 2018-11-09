@@ -59,7 +59,8 @@ Existen varios gestores de login y tenemos:
   
   
 -**Escritorio**
-Conjunto de métodos que posibilitan a los usuarios la interacción con un **sistema**: empleando botones, íconos, ventanas, etc...
+
+*Conjunto de métodos* que posibilitan a los usuarios la interacción con un **sistema**: empleando botones, íconos, ventanas, etc...
 
 Diferentes tipos de escritorios:
 
