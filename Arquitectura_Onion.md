@@ -26,7 +26,7 @@ a la hora de usarlo.
  
  -**TUI**: *Text User Interface* es un tipo interfaz gráfica de usuario (GUI) que lo que hace es, a través del tipo de texto ASCII, este hace la funcionalidad de dibujar ventanas,  botones y/o decoración. Es siplemente un GUI pero con más decoración.
  
- ![alt text](https://es.wikipedia.org/wiki/Interfaz_de_texto#/media/File:Midnight_Commander_(2007)_de.png)
+ ![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Synchronet.png/300px-Synchronet.png)
  
  
 -**Sistema de ventanas X** o **X11**:
