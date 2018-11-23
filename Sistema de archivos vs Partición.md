@@ -1,5 +1,6 @@
 **¿Que diferencia hay entre un Sistema de Archivos y una Partición?**
 
+
 *Sistema de Archivos*
 
  -  Un Sistema de Archivos es como una estanteria que dentro de ella tiene diferentes apartados. En estos apartados tiene diferentes libros
