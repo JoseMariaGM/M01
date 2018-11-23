@@ -7,6 +7,7 @@
   puede modificar este Archivo pero la etiqueta que lo denomina seguirá siendo la misma.
   Un **Sistema de Archivos** está dentro de una **Partición**.
   
+  
 *Partición*
   
  -  Es donde se alojan todos los archivos. La **Partición** es como un baúl que dentro tiene un Sistema de Archivos.
