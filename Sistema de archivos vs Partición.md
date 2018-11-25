@@ -11,3 +11,6 @@
 *Partición*
   
  -  Es donde se alojan todos los archivos. La **Partición** es como un baúl que dentro tiene un Sistema de Archivos.
+ 
+ *PartProbe*
+ - Partprobe es un programa que informa al kernel del sistema operativo sobre los cambios en la tabla de particiones, solicitando que el sistema operativo vuelva a leer la tabla de particiones.
