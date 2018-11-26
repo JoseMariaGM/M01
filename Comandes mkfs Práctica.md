@@ -1,4 +1,4 @@
-*Comandos Mkfs Práctica.*
+**Comandos Mkfs Práctica.**
 
 
 **kpartx -a /dev/loop0** -> Para entrar al disco.
