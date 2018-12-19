@@ -1,4 +1,4 @@
-Para poder conseguir que en nuestro grub tenga un tiempo de espera infinito, y que no se nos vaya rápidamente, se deberá poner:
+Para poder conseguir que nuestro grub tenga un tiempo de espera infinito, y que no se nos vaya rápidamente la pantalla de selección, se deberá poner:
 
 **Set timeout=-1**
 
