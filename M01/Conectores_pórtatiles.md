@@ -1,6 +1,6 @@
 
 # Conectores en los portátiles
-En los portatiles hay tres tipos básicos de conectores:
+En los portatiles hay tres tipos de conectores:
 ## Conector zif
 [![Image from Gyazo](https://i.gyazo.com/c07ded8eb25b9c01433324bcaa85f8d6.png)](https://gyazo.com/c07ded8eb25b9c01433324bcaa85f8d6)
 
